@@ -1,0 +1,10 @@
+os-sys==2.1.4
+pandas==3.0.3
+streamlit==1.58.0
+plotly.express==0.4.1                      
+streamlit_dynamic_filters==0.1.9
+pytest-warnings==0.3.1
+altair==6.2.1
+streamlit==1.58.0
+folium==0.20.0
+streamlit_folium==0.27.2
