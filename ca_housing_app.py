@@ -12,7 +12,7 @@ warnings.filterwarnings('ignore')
 #---------------------------------------------------------------------------------------------
 
 # Page config (must come before any st.* calls) - This is your html page name!
-st.set_page_config(page_title="🏠📊 CA Housing Dashboard App 😎👌", page_icon="🧊", layout="wide", initial_sidebar_state="auto", menu_items={'Get help':'mailto:tailback33@hotmail.com'})
+st.set_page_config(page_title="🏠📊 California Housing Market Dashboard App 😎👌", page_icon="🧊", layout="wide", initial_sidebar_state="auto", menu_items={'Get help':'mailto:tailback33@hotmail.com'})
 
 # Set title
 st.title("**🏠📊 :blue[California Housing Market Dashboard] 😎👌**", width="stretch", text_alignment="left")
